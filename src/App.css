@@ -1,0 +1,22 @@
+.footer{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+.center{
+  text-align: center;
+}
+.header{
+  position: fixed;
+  top: 0;
+  width: 200%;
+  height: 50px;
+  background-color: black;
+  text-align: center;
+  color: white;
+  margin: 0;
+}
